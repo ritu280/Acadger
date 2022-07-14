@@ -3,9 +3,9 @@ A Convenient way of data handling system for schools and colleges integrated wit
 complementary with an efficient student-Teacher interaction.
 
 ## Team-Member
-1.Mridul Gupta  
-2.Abhijeet Kumar  
-3.Tushar Suthar
+1.Ritu Sinha
+2.Atharva Mathpati
+3.Ketan
 
 ## Installation
  Python and Django need to be installed.
